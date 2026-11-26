@@ -75,12 +75,6 @@ SHA256  c7fd5b0ee4ada8952b1327a9f715dbbbe0d5fd9e95f2e995c2a99a70e789c72e
 完整文本见 `LICENSE`。本修改版对以下文件进行了修改：图标资源（`Images/icon.ico`、`Images/icon.png`、
 `Images/Heads/Logo*.png`）、标题栏字标与窗口标题、以及登录/联机/更新源相关的本地逻辑。
 
-## 致谢
-
-- **龙腾猫跃** —— PCL 原作者 · <https://afdian.com/a/LTCat>
-- [PCL 社区版（PCL-CE）](https://github.com/PCL-Community/PCL-CE)
-- [Plain Craft Launcher 2](https://github.com/Meloong-Git/PCL)
-
 ## 免责声明
 
 - 自编译二进制**没有数字签名**；版本号保持 2.15.1
