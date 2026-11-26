@@ -5,8 +5,6 @@
 > 本软件是**第三方基于 Plain Craft Launcher（PCL）独立进行的二次创作修改版**，**并非 PCL 官方发布**，
 > 与 PCL 官方及 PCL 社区版官方均无隶属关系。
 >
-> 原作者：**龙腾猫跃** · 赞助链接：<https://afdian.com/a/LTCat>
->
 > 本修改版在原版基础上替换了品牌图标与标题栏标识（LCP Edition），并包含若干本地修复。
 > 发布与使用请遵循文末《许可与署名》中的条款。
 
@@ -70,9 +68,8 @@ SHA256  c7fd5b0ee4ada8952b1327a9f715dbbbe0d5fd9e95f2e995c2a99a70e789c72e
 
 1. 本软件为第三方基于 PCL 独立进行的二次创作产物，非官方发布；
 2. 名称以 `PCL` 开头，并带有表明第三方修改的后缀（`LCP 修改版`）；
-3. 关于页首位保留**龙腾猫跃**的署名与赞助链接，软件开源发布，并随附本许可文件 `LICENCE-PCL.txt`；
-4. 保留 Minecraft 正版购买劝导与赞助劝导；
-5. 界面主色保持蓝色，不包含与 PCL 赞助解锁类似的功能。
+3. 保留 Minecraft 正版购买劝导与赞助劝导；
+4. 界面主色保持蓝色，不包含与 PCL 赞助解锁类似的功能。
 
 除 `Plain Craft Launcher 2/` 目录外，PCL 社区版其余组件遵循 **Apache License 2.0**，
 完整文本见 `LICENSE`。本修改版对以下文件进行了修改：图标资源（`Images/icon.ico`、`Images/icon.png`、
